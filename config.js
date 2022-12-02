@@ -35,7 +35,7 @@ var config = {
      */
     imgs: {
        
-        "送给我": "./imgs/123.png",
+        "心爱的小可爱": "./imgs/123.png",
         
     ],
     },
